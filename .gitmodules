@@ -1,0 +1,3 @@
+[submodule "TCDR-Safari-Extension-"]
+	path = TCDR-Safari-Extension-
+	url = git@github.com:squaresurf/TCDR-Safari-Extension-.git

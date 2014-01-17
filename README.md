@@ -11,6 +11,10 @@ Simply scans the page for the site owner / author's Twitter username and then op
 * More scanning methods.
 * Messaging when it fails to find a Twitter username.
 
-### Contributing
+## Contributing
 
-Feel free.
+Feel free to open a pull request.
+
+## License
+
+This code is released under the [MIT License](LICENSE.md)
